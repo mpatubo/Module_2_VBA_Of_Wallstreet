@@ -8,6 +8,6 @@ Although the project calls for 3 output arrays, (to be called tickerVolume, tick
 
 Summary: Refactoring is essential in coding.  
 Advantages of refactoring: The correct, and/or perfect code cannot possibly be attained on the first try, if at all.  However, refactoring allows one to try different ways to see how various versions of code perform.   
-Disadvantages of coding:  There is a point where refactoring can have negative returns.  Over analyzing can become counterproductive.  
+Disadvantages of refactoring:  There is a point where refactoring can have negative returns.  Over analyzing can become counterproductive.  
 
 
